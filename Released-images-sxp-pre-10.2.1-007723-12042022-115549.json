@@ -1,0 +1,72 @@
+[
+    {
+        "os":  "2009",
+        "images":  [
+                       {
+                           "name":  "sitecore-xm1-assets",
+                           "tag":  "10.2.1.007723.39-10.0.19042.1586-2009",
+                           "digest":  "sha256:7a041ac5b1b8f7d4af969221ab27ecff1f386cab96f50238fdae067bbcabf8ff",
+                           "pull":  "scr.sitecore.com/sxp-pre/sitecore-xm1-assets:10.2.1.007723.39-10.0.19042.1586-2009"
+                       },
+                       {
+                           "name":  "sitecore-xm1-assets",
+                           "tag":  "10.2.1.007723.39-10.0.19042.1586-20H2",
+                           "digest":  "sha256:7a041ac5b1b8f7d4af969221ab27ecff1f386cab96f50238fdae067bbcabf8ff",
+                           "pull":  "scr.sitecore.com/sxp-pre/sitecore-xm1-assets:10.2.1.007723.39-10.0.19042.1586-20H2"
+                       },
+                       {
+                           "name":  "sitecore-xp0-assets",
+                           "tag":  "10.2.1.007723.39-10.0.19042.1586-2009",
+                           "digest":  "sha256:7ccab26b398d2d5255b86881bb3bbb523e6fdebd0564bb0c67e4f280fbcf7895",
+                           "pull":  "scr.sitecore.com/sxp-pre/sitecore-xp0-assets:10.2.1.007723.39-10.0.19042.1586-2009"
+                       },
+                       {
+                           "name":  "sitecore-xp0-assets",
+                           "tag":  "10.2.1.007723.39-10.0.19042.1586-20H2",
+                           "digest":  "sha256:7ccab26b398d2d5255b86881bb3bbb523e6fdebd0564bb0c67e4f280fbcf7895",
+                           "pull":  "scr.sitecore.com/sxp-pre/sitecore-xp0-assets:10.2.1.007723.39-10.0.19042.1586-20H2"
+                       },
+                       {
+                           "name":  "sitecore-xp1-assets",
+                           "tag":  "10.2.1.007723.39-10.0.19042.1586-2009",
+                           "digest":  "sha256:83f10666bebc5b893e36d492259536566ea4a74175a8b49400ba575f5717c4b2",
+                           "pull":  "scr.sitecore.com/sxp-pre/sitecore-xp1-assets:10.2.1.007723.39-10.0.19042.1586-2009"
+                       },
+                       {
+                           "name":  "sitecore-xp1-assets",
+                           "tag":  "10.2.1.007723.39-10.0.19042.1586-20H2",
+                           "digest":  "sha256:83f10666bebc5b893e36d492259536566ea4a74175a8b49400ba575f5717c4b2",
+                           "pull":  "scr.sitecore.com/sxp-pre/sitecore-xp1-assets:10.2.1.007723.39-10.0.19042.1586-20H2"
+                       }
+                   ]
+    },
+    {
+        "os":  "Linux",
+        "images":  [
+
+                   ]
+    },
+    {
+        "os":  "ltsc2019",
+        "images":  [
+                       {
+                           "name":  "sitecore-xm1-assets",
+                           "tag":  "10.2.1.007723.232-10.0.17763.2686-1809",
+                           "digest":  "sha256:4ae44089500e24632113d5f864333f28bee36de3c324d786452adc04000f2835",
+                           "pull":  "scr.sitecore.com/sxp-pre/sitecore-xm1-assets:10.2.1.007723.232-10.0.17763.2686-1809"
+                       },
+                       {
+                           "name":  "sitecore-xp0-assets",
+                           "tag":  "10.2.1.007723.232-10.0.17763.2686-1809",
+                           "digest":  "sha256:24c475fdd361c9b6e12e44b5df3ce4054e26ac34014ba6491a2f7ee581c70866",
+                           "pull":  "scr.sitecore.com/sxp-pre/sitecore-xp0-assets:10.2.1.007723.232-10.0.17763.2686-1809"
+                       },
+                       {
+                           "name":  "sitecore-xp1-assets",
+                           "tag":  "10.2.1.007723.232-10.0.17763.2686-1809",
+                           "digest":  "sha256:d060ad812daafd0b4875f5c3c7c0ac44e5666d923d2cdf33b1975c8295309783",
+                           "pull":  "scr.sitecore.com/sxp-pre/sitecore-xp1-assets:10.2.1.007723.232-10.0.17763.2686-1809"
+                       }
+                   ]
+    }
+]
